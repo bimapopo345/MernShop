@@ -186,6 +186,6 @@ This project is licensed under the MIT License.
 ## Contact/Support
 
 - **GitHub**: bimapopo345
-- **Email**: admin@bimashop.com
+- **Email**: bimapopo345@gmail.com
 
 Happy Shopping and Coding with MernShop! 🚀
